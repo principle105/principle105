@@ -5,5 +5,3 @@
 
 ### Instructor at [Stem of Tomorrow](https://stemoftomorrow.com) 
 - A non-profit organization designed to help kids learn STEM for free.
-## ⚡ Fun fact:
-- I can type around 120-140wpm
