@@ -16,6 +16,7 @@ class Principle:
       "front_end": ["React", "CSS"],
       "back_end": ["Flask", "Express", "Node", "MongoDB"]
     }
+    self.learning = ["Typescript", "SCSS"]
 ```
 
 
