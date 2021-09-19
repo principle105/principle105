@@ -4,6 +4,9 @@
 ### [wordPractice Discord Bot](https://top.gg/bot/743183681182498906)
 - A typing test discord bot centered around improving touch typing skills. 
 
+### [Thomas Coin](https://github.com/principle105/thomas-coin)
+- Official Python implementation of the Thomas Coin protocol.
+
 ```python
 class Principle:
   def __init__(self):
