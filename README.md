@@ -7,16 +7,39 @@
 ### [Thomas Coin](https://github.com/principle105/thomas-coin)
 - Official Python implementation of the Thomas Coin protocol.
 
-```python
+
+```py
+import json
+from hashlib import sha256
+
+
 class Principle:
-  def __init__(self):
-    self.username = "principle105"
-    self.languages = ["Python", "Javascript", "HTML", "CSS"]
-    self.web_technologies = {
-      "front_end": ["React", "CSS"],
-      "back_end": ["Flask", "Express", "Node", "MongoDB"]
-    }
-    self.learning = ["Typescript", "SCSS"]
+    def __init__(self, languages: list, projects: list, colours: list = None):
+
+        self.languages = languages  # Languages known
+
+        if colours is None:
+            colours = "No favourite colour :("
+
+        self.colours = colours  # Favourite colours
+
+    def get_hash(self):
+        data = self.get_json_data()
+        block_string = json.dumps(data, sort_keys=True).encode()
+        return sha256(block_string).hexdigest()
+
+    def get_json_data(self):
+        data = {
+            "languages": self.languages,
+            "colours": self.colours,
+        }
+        return data
+
+
+Principle(
+    languages=["Python", "Javascript", "HTML", "CSS"],
+    colours=["Orange", "Purple", "Blue"],
+)
 ```
 
 
