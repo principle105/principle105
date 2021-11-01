@@ -9,12 +9,9 @@
 
 
 ```py
-import json
-from hashlib import sha256
 
-
-class Principle:
-    def __init__(self, languages: list, projects: list, colours: list = None):
+class Programmer(Person):
+    def __init__(self, languages: list, colours: list = None):
 
         self.languages = languages  # Languages known
 
@@ -36,7 +33,7 @@ class Principle:
         return data
 
 
-Principle(
+me = Programmer(
     languages=["Python", "Javascript", "HTML", "CSS"],
     colours=["Orange", "Purple", "Blue"],
 )
