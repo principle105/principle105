@@ -19,6 +19,8 @@ class Programmer(Person):
             colours = "No favourite colour :("
 
         self.colours = colours  # Favourite colours
+        
+        self.hash = get_hash()
 
     def get_hash(self):
         data = self.get_json_data()
