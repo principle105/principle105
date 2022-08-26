@@ -7,7 +7,7 @@
 ### [Thomas Coin](https://github.com/principle105/thomas-coin)
 - Official Python implementation of the Thomas Coin protocol.
 
-### [Thomas the Chatbot]
+### [Thomas the Chatbot](https://github.com/principle105/thomasthechatbot)
 - A chatbot that learns as you speak to it.
 
 <details>
