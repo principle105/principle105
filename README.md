@@ -1,19 +1,24 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-## Projects
-### [wordPractice Discord Bot](https://top.gg/bot/743183681182498906)
-- A typing test discord bot centered around improving touch typing skills. 
+![Counter](https://komarev.com/ghpvc/?username=principle105)
 
-### [Thomas Coin](https://github.com/principle105/thomas-coin)
-- Official Python implementation of the Thomas Coin protocol.
+<p>I'm a self-taught developer from Canada and I like building cool things.</p>
 
-### [Thomas the Chatbot](https://github.com/principle105/thomasthechatbot)
-- A chatbot that learns as you speak to it.
+<h2>⚡ Projects</h2>
 
-<details>
-  <summary><b>Github Stats</b></summary>
+<img align="left" src="https://i.imgur.com/BIzs17V.png" width="42" height="42" />
+<h3><a target="_blank" href="https://top.gg/bot/743183681182498906">wordPractice Discord Bot</a></h3>
+<p>A typing test discord bot that allows you to practice your typing skills while having fun.</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=principle105&count_private=true&theme=react&line_height=33)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=principle105&theme=react&hide=Tcl,C)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=principle105&theme=react)](https://git.io/streak-stats)
-</details>
+<img align="left" src="https://i.imgur.com/1qHopDH.png" width="42" height="42" />
+<h3><a href="https://github.com/principle105/thomasthechatbot">Thomas the Chatbot</a></h3>
+<p>A Python chatbot that learns as you speak to it.</p>
+
+<img align="left" src="https://i.imgur.com/4FdQpgN.png" width="42" height="42" />
+<h3><a href="https://github.com/principle105/thomas">Thomas Coin</a></h3>
+<p>A Python DAG-Based crypto currency.</p>
+
+<h2>📈 Weekly Stats</h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
