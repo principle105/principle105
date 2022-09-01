@@ -24,3 +24,10 @@
 
  Last Updated on 31/08/2022 18:46:53 UTC
 <!--END_SECTION:waka-->
+
+<h2>📫 How to contact me</h2>
+
+You can contact me through the email in my Github profile or my Discord server.
+
+[![](https://dcbadge.vercel.app/api/server/a5KdQXXqRA)](https://discord.gg/a5KdQXXqRA)
+
