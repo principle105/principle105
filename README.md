@@ -18,7 +18,7 @@
 <h3><a href="https://github.com/principle105/thomas">Thomas Coin</a></h3>
 <p>A Python DAG-Based crypto currency.</p>
 
-<h2>📈 Weekly Stats</h2>
+<h2>📈 Statistics</h2>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
