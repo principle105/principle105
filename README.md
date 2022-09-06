@@ -70,5 +70,5 @@ Mac                      2 hrs 24 mins       ███████████�
 
 You can contact me through the email in my Github profile or my Discord server.
 
-[![](https://dcbadge.vercel.app/api/server/a5KdQXXqRA)](https://discord.gg/a5KdQXXqRA)
+[![Discord Server Link](https://dcbadge.vercel.app/api/server/a5KdQXXqRA)](https://discord.gg/a5KdQXXqRA)
 
