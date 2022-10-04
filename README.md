@@ -15,7 +15,7 @@
 <p>A Python chatbot that learns as you speak to it.</p>
 
 <img align="left" src="https://i.imgur.com/4FdQpgN.png" width="42" height="42" />
-<h3><a href="https://github.com/principle105/thomas">Thomas Coin</a></h3>
+<h3><a href="https://github.com/principle105/thomas-coin">Thomas Coin</a></h3>
 <p>A Python DAG-Based crypto currency.</p>
 
 <h2>📈 Statistics</h2>
