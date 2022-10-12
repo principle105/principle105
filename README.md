@@ -10,7 +10,7 @@
 <h3><a target="_blank" href="https://top.gg/bot/743183681182498906">wordPractice Discord Bot</a></h3>
 <p>A typing test discord bot that allows you to practice your typing skills while having fun.</p>
 
-<img align="left" src="https://i.imgur.com/1qHopDH.png" width="42" height="42" />
+<img align="left" src="https://i.imgur.com/hA9YF2s.png" width="42" height="42" />
 <h3><a href="https://github.com/principle105/thomasthechatbot">Thomas the Chatbot</a></h3>
 <p>A Python chatbot that learns as you speak to it.</p>
 
