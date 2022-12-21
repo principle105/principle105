@@ -10,13 +10,17 @@
 <h3><a target="_blank" href="https://discord.com/application-directory/743183681182498906">wordPractice Discord Bot</a></h3>
 <p>A typing test discord bot that allows you to practice your typing skills while having fun.</p>
 
+<img align="left" src="https://i.imgur.com/4FdQpgN.png" width="42" height="42" />
+<h3><a href="https://github.com/principle105/thomas-coin">Thomas Coin</a></h3>
+<p>A Python DAG-Based crypto currency.</p>
+
 <img align="left" src="https://i.imgur.com/hA9YF2s.png" width="42" height="42" />
 <h3><a href="https://github.com/principle105/thomasthechatbot">Thomas the Chatbot</a></h3>
 <p>A Python chatbot that learns as you speak to it.</p>
 
-<img align="left" src="https://i.imgur.com/4FdQpgN.png" width="42" height="42" />
-<h3><a href="https://github.com/principle105/thomas-coin">Thomas Coin</a></h3>
-<p>A Python DAG-Based crypto currency.</p>
+<img align="left" src="https://i.imgur.com/Ly8Atho.png" width="42" height="42" />
+<h3><a href="http://summit.sh/">Summit</a></h3>
+<p>Coming soon...</p>
 
 <h2>📈 Statistics</h2>
 
