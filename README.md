@@ -7,7 +7,7 @@
 <h2>⚡ Projects</h2>
 
 <img align="left" src="https://i.imgur.com/BIzs17V.png" width="42" height="42" />
-<h3><a target="_blank" href="https://discord.com/application-directory/743183681182498906">wordPractice Discord Bot</a></h3>
+<h3><a target="_blank" href="http://wordpractice.principle.sh/">wordPractice Discord Bot</a></h3>
 <p>A typing test discord bot that allows you to practice your typing skills while having fun.</p>
 
 <img align="left" src="https://i.imgur.com/4FdQpgN.png" width="42" height="42" />
