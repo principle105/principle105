@@ -1,14 +1,12 @@
 <h2>Hi there 👋</h2>
 
-![Counter](https://komarev.com/ghpvc/?username=principle105)
-
 <p>I'm a self-taught developer from Canada and I like building cool things.</p>
 
 <h2>⚡ Projects</h2>
 
 <img align="left" src="https://i.imgur.com/BIzs17V.png" width="42" height="42" />
 <h3><a target="_blank" href="http://wordpractice.principle.sh/">wordPractice Discord Bot</a></h3>
-<p>A typing test discord bot that allows you to practice your typing skills while having fun.</p>
+<p>A typing Discord bot that provides a fun and interactive way for users to hone their typing skills.</p>
 
 <img align="left" src="https://i.imgur.com/4FdQpgN.png" width="42" height="42" />
 <h3><a href="https://github.com/principle105/thomas-coin">Thomas Coin</a></h3>
