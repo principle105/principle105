@@ -14,7 +14,7 @@
 
 <img align="left" src="https://i.imgur.com/Ly8Atho.png" width="42" height="42" />
 <h3><a href="https://summit.sh/">Summit</a></h3>
-<p>An extension to help keep you focused and productive.</p>
+<p>A Chrome extension that helps keep you focused and productive.</p>
 
 <img align="left" src="https://i.imgur.com/hA9YF2s.png" width="42" height="42" />
 <h3><a href="https://github.com/principle105/thomasthechatbot">Thomas the Chatbot</a></h3>
