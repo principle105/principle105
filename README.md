@@ -48,17 +48,17 @@ Sunday                   354 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Svelte                   23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/04/2023 18:36:06 UTC
+ Last Updated on 25/04/2023 18:36:10 UTC
 <!--END_SECTION:waka-->
 
 <h2>📫 How to contact me</h2>
