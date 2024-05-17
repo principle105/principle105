@@ -48,19 +48,17 @@ Sunday                   480 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     0 secs              █████████████████████░░░░   82.40 % 
-Svelte                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/05/2024 18:34:25 UTC
+ Last Updated on 17/05/2024 18:35:42 UTC
 <!--END_SECTION:waka-->
 
 <h2>📫 How to contact me</h2>
