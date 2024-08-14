@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-<p>I'm a self-taught developer from Canada and I like building cool things.</p>
+<p>I'm a self-taught developer from Canada who likes building cool things.</p>
 
 <h2>⚡ Projects</h2>
 
