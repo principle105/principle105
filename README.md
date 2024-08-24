@@ -5,8 +5,12 @@
 <h2>⚡ Projects</h2>
 
 <img align="left" src="https://i.imgur.com/6RT8VFO.png" width="42" height="42" />
-<h3><a target="_blank" href="https://wordpractice.principle.sh/">WordPractice</a></h3>
+<h3><a target="_blank" href="https://wordpractice.io/">WordPractice</a></h3>
 <p>A ranked multiplayer typing game where users compete to determine the fastest typist.</p>
+
+<img align="left" src="https://i.imgur.com/VVcLezs.png" width="42" height="42" />
+<h3><a target="_blank" href="https://discord.com/application-directory/743183681182498906">WordPractice Discord Bot</a></h3>
+<p>Practice your typing skills while having fun, compete with typists from around the world.</p>
 
 <h2>📈 Statistics</h2>
 
