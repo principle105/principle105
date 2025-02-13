@@ -6,7 +6,7 @@
 
 <img align="left" src="https://i.imgur.com/6RT8VFO.png" width="42" height="42" />
 <h3><a target="_blank" href="https://wordpractice.io/">WordPractice</a></h3>
-<p>A ranked multiplayer typing game where users compete to determine the fastest typist.</p>
+<p>A ranked multiplayer typing game where players compete to determine the fastest typist.</p>
 
 <h2>📈 Statistics</h2>
 
@@ -16,7 +16,5 @@
 
 <h2>📫 How to contact me</h2>
 
-You can contact me through the email in my Github profile or my Discord server.
-
-[![Discord Server Link](https://dcbadge.vercel.app/api/server/DHnk46C)](https://discord.gg/DHnk46C)
+You can contact me through the email in my Github profile.
 
