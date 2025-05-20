@@ -33,5 +33,5 @@ Mac                      32 hrs 49 mins      ███████████�
 
 <h2>📫 How to contact me</h2>
 
-You can contact me through the email in my Github profile.
+You can contact me through the email on my Github profile.
 
