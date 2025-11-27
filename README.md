@@ -4,7 +4,7 @@
 
 <h2>⚡ Projects</h2>
 
-<img align="left" src="https://i.imgur.com/T66Tvm7.png" width="42" height="42" />
+<img align="left" src="https://i.imgur.com/E2Vk3Ol.png" width="42" height="42" />
 <h3><a target="_blank" href="https://clack.so/">Clack</a></h3>
 <p>A ranked multiplayer typing game where players compete to see who is the the fastest typist.</p>
 
