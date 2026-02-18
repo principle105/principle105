@@ -11,6 +11,23 @@
 <h2>📈 Statistics</h2>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Svelte                   3 hrs 59 mins       █████████████████████░░░░   84.99 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+
+🔥 Editors: 
+Cursor                   4 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
