@@ -11,19 +11,6 @@
 <h2>📈 Statistics</h2>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 10 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Cursor                   10 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
