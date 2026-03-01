@@ -11,6 +11,22 @@
 <h2>📈 Statistics</h2>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 10 mins             █████████████████████░░░░   83.95 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+Cursor                   12 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
