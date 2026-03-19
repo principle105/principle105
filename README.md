@@ -11,6 +11,22 @@
 <h2>📈 Statistics</h2>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Svelte                   0 secs              ██████████████░░░░░░░░░░░   54.37 % 
+CSS                      0 secs              ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+
+🔥 Editors: 
+Cursor                   0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
