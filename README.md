@@ -15,8 +15,7 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   0 secs              █████████████████░░░░░░░░   67.30 % 
-CSS                      0 secs              ████████░░░░░░░░░░░░░░░░░   32.70 % 
+Svelte                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Cursor                   0 secs              █████████████████████████   100.00 % 
