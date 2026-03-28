@@ -15,13 +15,13 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   0 secs              █████████████████████████   100.00 % 
+Svelte                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
