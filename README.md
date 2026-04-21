@@ -15,13 +15,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ████████████████░░░░░░░░░   62.62 % 
+CSS                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Svelte                   0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
