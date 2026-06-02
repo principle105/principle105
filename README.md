@@ -15,13 +15,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      25 mins             ███████████████░░░░░░░░░░   58.44 % 
+Liquid                   9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 
