@@ -11,6 +11,25 @@
 <h2>📈 Statistics</h2>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+CSS                      31 mins             ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Liquid                   25 mins             ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Python                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+
+🔥 Editors: 
+Claude Code              1 hr 22 mins        ██████████████████████░░░   88.98 % 
+VS Code                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+
+💻 Operating System: 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
