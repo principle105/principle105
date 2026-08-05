@@ -17,40 +17,39 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 14 mins        ████████████████░░░░░░░░░   62.75 % 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JavaScript               56 mins             ███████████████████░░░░░░   76.51 % 
+HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Claude Code              1 hr 57 mins        █████████████████████████   98.90 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Claude Code              1 hr 13 mins        █████████████████████████   99.64 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (100.0%)
+⏱ AI Coding Time: 1 hr 14 mins (100.0%)
 
-✍️ 2,784 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 876 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 59,695,587 Input Tokens, 267,139 Output Tokens
+🔤 46,041,349 Input Tokens, 185,029 Output Tokens
 
-💵 $336.85 Estimated AI Cost This Week
+💵 $273.09 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 35 AI Prompts
+🧠 4 AI Sessions, 27 AI Prompts
 
-Opus                     2,879 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,677 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 649 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 796 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
