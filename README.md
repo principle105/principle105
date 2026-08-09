@@ -17,39 +17,37 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               43 mins             █████████████████░░░░░░░░   67.49 % 
-HTML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+HTML                     4 mins              ███████████████░░░░░░░░░░   60.61 % 
+JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   34.57 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-Claude Code              1 hr 4 mins         █████████████████████████   99.94 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              8 mins              █████████████████████████   99.55 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (100.0%)
+⏱ AI Coding Time: 8 mins (100.0%)
 
-✍️ 165 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 39,083,385 Input Tokens, 123,813 Output Tokens
+🔤 10,333,643 Input Tokens, 20,831 Output Tokens
 
-💵 $257.58 Estimated AI Cost This Week
+💵 $117.56 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 22 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-Opus                     1,028 lines         █████████████████████████   100.00 % 
+Opus                     880 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 805 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 448 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
