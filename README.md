@@ -17,37 +17,36 @@
 
 ```text
 💬 Programming Languages: 
-HTML                     4 mins              ███████████████░░░░░░░░░░   60.61 % 
-JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   34.57 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+HTML                     3 mins              ████████████████░░░░░░░░░   63.48 % 
+JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   36.52 % 
 
 🔥 Editors: 
-Claude Code              8 mins              █████████████████████████   99.55 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              6 mins              █████████████████████████   99.40 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (100.0%)
+⏱ AI Coding Time: 6 mins (100.0%)
 
 ✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,333,643 Input Tokens, 20,831 Output Tokens
+🔤 6,650,573 Input Tokens, 15,807 Output Tokens
 
-💵 $117.56 Estimated AI Cost This Week
+💵 $101.35 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 Opus                     880 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,132 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
