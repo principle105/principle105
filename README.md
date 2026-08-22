@@ -17,38 +17,19 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               55 mins             █████████████████████░░░░   83.94 % 
-Text                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (100.0%)
-
-✍️ 722 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 44,874,340 Input Tokens, 116,339 Output Tokens
-
-💵 $211.09 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Opus                     724 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,449 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
